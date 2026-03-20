@@ -128,13 +128,6 @@ Open `index.html` in your browser.
 
 ---
 
-## 🎥 Demo
-
-* Add your demo video link here
-* Or include screenshots of the working system
-
----
-
 ## 📌 Limitations
 
 * Not a full voice-based system (text simulation only)
